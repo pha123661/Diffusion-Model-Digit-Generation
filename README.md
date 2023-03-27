@@ -10,4 +10,4 @@ Results:
 
 ![digit](plot/100_samples.png)
 
-See problem 2 in [Report.pdf](./Report.pdf) and [Spec.pdf](Spec.pdf)  more details.
+See problem 2 in [Report.pdf](./Report.pdf) and [Spec.pdf](Spec.pdf) for more details.
